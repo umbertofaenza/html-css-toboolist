@@ -18,6 +18,17 @@
     padding: 2px;
 }
 
+.x-mark-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #ef7d78;
+    border: 1px solid #ef7d78;
+    border-radius: 50%;
+}
+
 .label {
     display: inline-block;
     font-size: 0.7rem;
@@ -28,6 +39,18 @@
 
 .editorial {
     background-color: #47adf1;
+}
+
+.q1-goals {
+    background-color: #9c72e4;
+}
+
+.recruiting {
+    background-color: #64c0a9;
+}
+
+.mobile {
+    background-color: #f29e33;
 }
 
 /* HEADER */
